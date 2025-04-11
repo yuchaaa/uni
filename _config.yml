@@ -1,29 +1,29 @@
 # Your Name or Company
-title: Uni Kravitz
+title: Harris Anthonio
 
 # Description of your website. This is used for social sharing.
-description:  The beautiful website of artist, poet, craftsperson, cyclist, and avid juggler, Uni Kravitz.
+description:  A personal site.
 
 # A brief blurb about yourself
-content: Nullam id dolor id nibh ultricies vehicula ut id elit. Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mattis consectetur purus sit amet fermentum.
+content: This domain is actually a reference of a media franchine I like (if you know you know ;) ).  Cutting down the formalities, I am simply just a person who's simply going through the usual life challenges.
 
 # Add your social links
 social:
   - platform: github
-    url: https://github.com/brianmaierjr
-  - platform: facebook
-    url: https://facebook.com/brianmaierjr
+    url: https://github.com/yuchaaa
+  - platform: discord
+    url: https://discordapp.com/users/161793423819538432
   - platform: twitter
-    url: https://twitter.com/brianmaierjr
+    url: https://twitter.com/risuyuy
   - platform: linkedin
-    url: brianmaierjr
+    url: harrisanthonio
 
 # General settings
 # url: http://brianmaierjr.github.com/uni
 # baseurl: "/uni" 
 markdown: kramdown
 sharing_image: share.jpg
-google_analytics: "UA-58263416-1" # google analytics tracking
+google_analytics: "G-KPWR8T9YBW" # google analytics tracking
 
 #### LAYOUT OPTIONS #####
 
