@@ -16,10 +16,6 @@
     "gulp-dart-sass": "^1.0.2",
     "sass": "^1.69.5"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/brianmaierjr/uni.git"
-  },
   "keywords": [
     "jekyll",
     "gulp",
