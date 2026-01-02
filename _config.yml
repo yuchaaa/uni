@@ -15,8 +15,7 @@ social:
     url: /
   - platform: click
     url: /
-  - platform: linkedin
-    url: /
+
 
 # General settings
 # url: http://brianmaierjr.github.com/uni
